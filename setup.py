@@ -13,10 +13,10 @@ install_requires = [
     'six>=1.7',
     'termcolor',
     'ansi2html',
-    'asyncssh>=1.16.0',
-    'aiohttp>=3.0.0,<4.0',
-    'aiohttp_jinja2',
-    'aiohttp-devtools>=0.8',
+    'asyncssh==2.7.0',
+    'aiohttp==3.7.4.post0',
+    'aiohttp_jinja2==1.5',
+    'aiohttp-devtools==0.13.1',
 
 ]
 
